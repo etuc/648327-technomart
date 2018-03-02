@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Анастасия Немихина](https://up.htmlacademy.ru/htmlcss/20/user/648327).
-* Наставник: `Неизвестно`.
+* Наставник: [Ирина Малиновская](https://htmlacademy.ru/profile/irina-malinovskaya).
 
 ---
 
